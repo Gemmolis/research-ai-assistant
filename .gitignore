@@ -1,0 +1,19 @@
+# Виртуальное окружение Python
+venv/
+.venv/
+
+# Секретные данные (КРИТИЧНО ВАЖНО!)
+.env
+
+# Системные файлы Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Настройки редактора VS Code
+.vscode/
+
+# Системный мусор Windows/Mac
+.DS_Store
+Thumbs.db
